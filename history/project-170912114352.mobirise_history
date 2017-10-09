@@ -1,7 +1,7 @@
 {
   "settings": {
     "name": "KRRS786 Catering ",
-    "currentPage": "MyPlatters.html",
+    "currentPage": "index.html",
     "theme": {
       "name": "default",
       "title": "Mobirise",
@@ -236,13 +236,9 @@
           "media1": {
             "image": {
               "active": true,
-              "src": "@PROJECT_PATH@/assets/images/wedding-600x600.png",
+              "src": "images/bootstrap.png",
               "class": "mbr-figure__img",
-              "width": 600,
-              "link": "",
-              "alt": "",
-              "title": "",
-              "linkInNewWindow": false
+              "width": 600
             },
             "video": {
               "class": "mbr-figure__img",
@@ -260,13 +256,9 @@
           "media2": {
             "image": {
               "active": true,
-              "src": "@PROJECT_PATH@/assets/images/parties-600x600.png",
+              "src": "images/responsive.png",
               "class": "mbr-figure__img",
-              "width": 600,
-              "link": "",
-              "alt": "",
-              "title": "",
-              "linkInNewWindow": false
+              "width": 600
             },
             "video": {
               "class": "mbr-figure__img",
@@ -284,13 +276,9 @@
           "media3": {
             "image": {
               "active": true,
-              "src": "@PROJECT_PATH@/assets/images/cooperate%20functions-600x600.png",
+              "src": "images/google-fonts.png",
               "class": "mbr-figure__img",
-              "width": 600,
-              "link": "",
-              "alt": "",
-              "title": "",
-              "linkInNewWindow": false
+              "width": 600
             },
             "video": {
               "class": "mbr-figure__img",
@@ -308,13 +296,9 @@
           "media4": {
             "image": {
               "active": true,
-              "src": "@PROJECT_PATH@/assets/images/platter-600x600.png",
+              "src": "images/unlimited-websites.png",
               "class": "mbr-figure__img",
-              "width": 600,
-              "link": "",
-              "alt": "",
-              "title": "",
-              "linkInNewWindow": false
+              "width": 600
             },
             "video": {
               "class": "mbr-figure__img",

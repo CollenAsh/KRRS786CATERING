@@ -1,7 +1,7 @@
 {
   "settings": {
     "name": "KRRS786 Catering ",
-    "currentPage": "MyPlatters.html",
+    "currentPage": "AboutUs.html",
     "theme": {
       "name": "default",
       "title": "Mobirise",
@@ -11,10 +11,7 @@
     "uniqCompNum": 38,
     "versionPublish": "3.12.1",
     "favicon": "",
-    "noImageResize": "",
-    "publishFtpPath": "public_html",
-    "publishType": "local",
-    "publishPath": "@PROJECT_PATH@"
+    "noImageResize": ""
   },
   "pages": {
     "index.html": {
@@ -85,14 +82,6 @@
             "Theme"
           ],
           "_name": "slider",
-          "_styles": {
-            "H1": {
-              "color": "#ffffff"
-            },
-            "P": {
-              "font-size": "20px"
-            }
-          },
           "_params": {
             "autoplay": true,
             "paddingTop": 3,
@@ -140,7 +129,15 @@
             "showBullets": true
           },
           "_anchor": "slider-0",
-          "articleLayout": false
+          "articleLayout": false,
+          "_styles": {
+            "H1": {
+              "color": "#ffffff"
+            },
+            "P": {
+              "font-size": "20px"
+            }
+          }
         },
         {
           "_inherit": "msg-box3",
@@ -236,13 +233,9 @@
           "media1": {
             "image": {
               "active": true,
-              "src": "@PROJECT_PATH@/assets/images/wedding-600x600.png",
+              "src": "images/bootstrap.png",
               "class": "mbr-figure__img",
-              "width": 600,
-              "link": "",
-              "alt": "",
-              "title": "",
-              "linkInNewWindow": false
+              "width": 600
             },
             "video": {
               "class": "mbr-figure__img",
@@ -260,13 +253,9 @@
           "media2": {
             "image": {
               "active": true,
-              "src": "@PROJECT_PATH@/assets/images/parties-600x600.png",
+              "src": "images/responsive.png",
               "class": "mbr-figure__img",
-              "width": 600,
-              "link": "",
-              "alt": "",
-              "title": "",
-              "linkInNewWindow": false
+              "width": 600
             },
             "video": {
               "class": "mbr-figure__img",
@@ -284,13 +273,9 @@
           "media3": {
             "image": {
               "active": true,
-              "src": "@PROJECT_PATH@/assets/images/cooperate%20functions-600x600.png",
+              "src": "images/google-fonts.png",
               "class": "mbr-figure__img",
-              "width": 600,
-              "link": "",
-              "alt": "",
-              "title": "",
-              "linkInNewWindow": false
+              "width": 600
             },
             "video": {
               "class": "mbr-figure__img",
@@ -308,13 +293,9 @@
           "media4": {
             "image": {
               "active": true,
-              "src": "@PROJECT_PATH@/assets/images/platter-600x600.png",
+              "src": "images/unlimited-websites.png",
               "class": "mbr-figure__img",
-              "width": 600,
-              "link": "",
-              "alt": "",
-              "title": "",
-              "linkInNewWindow": false
+              "width": 600
             },
             "video": {
               "class": "mbr-figure__img",
@@ -1000,9 +981,44 @@
             "images": [
               {
                 "caption": "Type caption here",
-                "thumb": "@PROJECT_PATH@/assets/images/platter1-2000x1350-800x540.png",
-                "image": "@PROJECT_PATH@/assets/images/platter1-2000x1350.png",
+                "thumb": "images/slide1-small.jpg",
+                "image": "images/slide1.jpg",
                 "active": true
+              },
+              {
+                "caption": "Type caption here",
+                "thumb": "images/slide2-small.jpg",
+                "image": "images/slide2.jpg"
+              },
+              {
+                "caption": "Type caption here",
+                "thumb": "images/slide3-small.jpg",
+                "image": "images/slide3.jpg"
+              },
+              {
+                "caption": "Type caption here",
+                "thumb": "images/slide4-small.jpg",
+                "image": "images/slide4.jpg"
+              },
+              {
+                "caption": "Type caption here",
+                "thumb": "images/slide5-small.jpg",
+                "image": "images/slide5.jpg"
+              },
+              {
+                "caption": "Type caption here",
+                "thumb": "images/slide6-small.jpg",
+                "image": "images/slide6.jpg"
+              },
+              {
+                "caption": "Type caption here",
+                "thumb": "images/slide7-small.jpg",
+                "image": "images/slide7.jpg"
+              },
+              {
+                "caption": "Type caption here",
+                "thumb": "images/slide8-small.jpg",
+                "image": "images/slide8.jpg"
               }
             ],
             "showText": false,
